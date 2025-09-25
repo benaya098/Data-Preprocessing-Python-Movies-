@@ -52,3 +52,7 @@ Proyek ini dibagi menjadi tiga bagian utama:
 Pastikan file `movies.csv` berada di dalam direktori yang sama dengan script Python Anda.
 
 ---
+
+Dataset 
+
+[movies.csv](https://github.com/user-attachments/files/22526914/movies.csv)
